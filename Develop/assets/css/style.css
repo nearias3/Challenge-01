@@ -188,6 +188,7 @@ main {
     font-size: 36px;
 }
 
+/* Changed class .footer to match the footer element */
 footer {
     padding: 30px;
     clear: both;
