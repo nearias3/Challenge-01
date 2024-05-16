@@ -102,15 +102,22 @@ aside.benefits {
     background-color: #2589bd;
 }
 
+
+/* Combined all code with article element */
+
 .benefits article {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Combined all code within article with h3 heading */
+
 .benefits article h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/* Combined all img codes within article nest */
 
 .benefits article img {
     display: block;
