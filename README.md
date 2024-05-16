@@ -8,7 +8,7 @@ The purpose of this challenge was to use the skills learned in the Prework and M
 
 In order to access the deployed website, click the following link: []
 
-
+![Screenshot of Horiseon Homepage web app](./Develop/assets/images/horiseon%20webpage.png)
 
 ## Credits
 
