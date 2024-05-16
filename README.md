@@ -6,7 +6,7 @@ The purpose of this challenge was to use the skills learned in the Prework and M
 
 ## Usage
 
-In order to access the deployed website, click the following link: []
+In order to access the deployed website, click the following link: [https://nearias3.github.io/challenge-01]
 
 ![Screenshot of Horiseon Homepage web app](./Develop/assets/images/horiseon%20webpage.png)
 
